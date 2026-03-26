@@ -75,7 +75,6 @@ OpenCLI 通过轻量化的 **Browser Bridge** Chrome 扩展 + 微型 daemon 与�
 > **Tip**：后续诊断用 `opencli doctor`：
 > ```bash
 > opencli doctor            # 检查扩展和 daemon 连通性
-> opencli doctor --live     # 额外测试浏览器命令
 > ```
 
 ## 快速开始
